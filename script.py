@@ -7,9 +7,9 @@ from datetime import datetime, timedelta
 import pytz
 import requests
 
-username = "anwarchegg05@gmail.com"
-password = "Author@05"
-user_bot_chatID = '1155462778'
+username = "vinaykundu17@gmail.com"
+password = "Vinayk@15"
+user_bot_chatID = '5697608903'
 account_name = "Anwar"
 accept_option = True
 start_time = 0                   #Stating time. Default 0. In 24 hour format
